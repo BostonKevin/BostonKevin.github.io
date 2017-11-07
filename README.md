@@ -1,6 +1,6 @@
 # BostonKevin.github.io
 
-This repository contains some of Kevin Donovan's writing samples.  Three are articles from Mutlilingual magazine:
+This repository contains some of Kevin Donovan's writing samples.  Three are articles from Multilingual magazine:
 
      Exchanging Translated HTML Data Painlessly (Almost) (April 2016)
  
