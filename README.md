@@ -8,4 +8,6 @@ This repository contains some of Kevin Donovan's writing samples.  Three are art
      
      Localizing a Disease Management System (October-November 2017)
      
-Others are from positions at client companies.     
+Others are from positions at client companies, such as the white paper:
+
+      Recapturing Stranded Server Resources
