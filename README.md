@@ -1,6 +1,12 @@
 # BostonKevin.github.io
 
-This repository contains some of Kevin Donovan's writing samples.  Three are articles from Multilingual magazine:
+This repository contains some of Kevin Donovan's writing samples.  
+
+Some are from positions at client companies, such as the white paper:
+
+      Recapturing Stranded Server Resources
+
+Others are articles from Multilingual magazine:
 
      Exchanging Translated HTML Data Painlessly (Almost) (April 2016)
  
@@ -8,6 +14,3 @@ This repository contains some of Kevin Donovan's writing samples.  Three are art
      
      Localizing a Disease Management System (October-November 2017)
      
-Others are from positions at client companies, such as the white paper:
-
-      Recapturing Stranded Server Resources
