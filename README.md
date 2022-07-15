@@ -8,7 +8,7 @@ Some are from positions at client companies, such as the white paper:
       
       Elastic Workload Manager Guide
       
-      
+      Behavior Change Protocol Guide
 
 Others are articles from Multilingual magazine:
 
