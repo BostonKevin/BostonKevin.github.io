@@ -5,6 +5,10 @@ This repository contains some of Kevin Donovan's writing samples.
 Some are from positions at client companies, such as the white paper:
 
       Recapturing Stranded Server Resources
+      
+      Elastic Workload Manager Guide
+      
+      
 
 Others are articles from Multilingual magazine:
 
